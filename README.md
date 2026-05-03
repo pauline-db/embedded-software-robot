@@ -4,7 +4,6 @@
 This project implements a complete control pipeline for a line-following robotic car. It covers obstacle detection, line detection, obstacle avoidance, and distance-based stopping for sub-assignments (a)-(d) of CSE2425.
 
 **Author:** Pauline De Baets  
-**Student ID:** 6544819  
 **Framework:** Pico VS Code Extension
 
 ## Project Overview
