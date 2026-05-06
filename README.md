@@ -5,6 +5,7 @@ This project implements a complete control pipeline for a line-following robotic
 
 **Author:** Pauline De Baets  
 **Framework:** Pico VS Code Extension
+**Date:** Spring 2026
 
 ## Project Overview
 
